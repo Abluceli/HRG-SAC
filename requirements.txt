@@ -37,7 +37,7 @@ mkl-service==2.1.0
 more-itertools==7.2.0
 numpy==1.16.1
 olefile==0.46
-opencv-python==4.1.1.26
+opencv-python==4.2.0.32
 openpyxl==2.6.2
 pandas==0.25.0
 parso==0.5.1
